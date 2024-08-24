@@ -1,0 +1,179 @@
+{
+  "prefix": "4!",
+  
+  "welcomeRoomId": "1140455744098009148",
+  
+  "rankbanner": "rank2.png",
+  
+  "suggestionschannel": "1225142999651061770",
+  "suggestionsreport": "1239106585738084352",
+  "accshinsug": "1239118065954848813",
+  
+  "welcomeLogChannelId": "1226361031060623400",
+  "ruleschannelid": "1026875367740407929",
+
+  "logChannelId": "1224750342122766458",
+  "TicketReportChannelId": "1238142343769493636",
+  "ServerReportChannelId": "1254178352810692638",
+  "TicketSaveChannelId": "1012094324021936138",
+  "levelUpChannelId": "1013873046924304447",
+  
+  "avatar_id": "1247899736783192137",
+  "bot_id": "1233546878235181076",
+  "channel_info_id": "1244237374821499000",
+  "clear_id": "1233546918626332755",
+  "edit_message_id": "1244236366124945408",
+  "emoji_list_id": "1244237120680230992",
+  "member_list_id": "1244237120680230993",
+  "message_info_id": "1244247505286336543",
+  "ping_id": "1233547629334495324",
+  "role_info_id": "1244242819485532160",
+  "role_list_id": "1244237120680230994",
+  "say_id": "1244236258482589726",
+  "server_banner_id": "1249104256716505159",
+  "server_info_id": "1244236951754899458",
+  "tax_id": "1233568305210458143",
+  "test_welcome_id": "1244236142585450528",
+  "user_banner_idd": "1244236863372525619",
+  "user_info_id": "1244236863372525620",
+  
+    "categoryIDs": {
+    "ticket_1": "1223815609930747955",
+    "ticket_2": "1223823604609712258",
+    "ticket_3": "1224347809453572176",
+    "ticket_4": "1224347395341549661",
+    "ticket_5": "1224347298641739968",
+    "ticket_6": "1224347550832791672",
+    "ticket_7": "1223815543946088600",
+    "ticket_8": "1223815678935699597",
+    "ticket_9": "1224348991496523886",
+    "ticket_10": "1224349058827554926",
+    "ticket_11": "1224349123717759137",
+    "ticket_12": "1224349190877085696"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "لجنة الرقابة",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392621604343869/1.png?ex=668f2799&is=668dd619&hm=2441b33d7721aa353b9292f65bb216e0f9d34451f710cdc5f94784426999261a&",
+      "value": "ticket_1",
+      "rolesupport": "<@&1223814666958934096>",
+      "roleticketid": [
+        "1223814666958934096"
+      ],
+      "emoji": "🕵️"
+    },
+    {
+      "label": "طلب عقوبة إدارية",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392649479684138/2.png?ex=668f27a0&is=668dd620&hm=b55fd9638cba3f0a81cc26117c3dd8bc3544ed2462f2a4e37a7866fdb651b3a8&",
+      "value": "ticket_2",
+      "rolesupport": "<@&1223814667638407299>",
+      "roleticketid": [
+        "1223814667638407299"
+      ],
+      "emoji": "⚖️"
+    },
+    {
+      "label": "بلاغ ضد مخرب",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392662075441273/3.png?ex=668f27a3&is=668dd623&hm=78378c808e81b2a8c3431c5a490b6eddfaa30e855403c16a216ac2cf93eb97a6&",
+      "value": "ticket_3",
+      "rolesupport": "<@&1224346531310604399>",
+      "roleticketid": [
+        "1224346531310604399"
+      ],
+      "emoji": "🛡️"
+    },
+    {
+      "label": "بلاغ عن مشكلة تقنية",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392674611953724/4.png?ex=668f27a6&is=668dd626&hm=4a03dc642b4f9db50c8ba8cac9a4c93bab3c9feab3ed176495dc23fadea49906&",
+      "value": "ticket_4",
+      "rolesupport": "<@&1224349559006826616>",
+      "roleticketid": [
+        "1224349559006826616"
+      ],
+      "emoji": "💻"
+    },
+    {
+      "label": "طلب تعويض",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392686607667251/5.png?ex=668f27a9&is=668dd629&hm=da1eda94d6aec80509c32021b2a8d2f76118f7bce9d4a82029d8bc8b88121ecf&",
+      "value": "ticket_5",
+      "rolesupport": "<@&1224346550080241817>",
+      "roleticketid": [
+        "1224346550080241817"
+      ],
+      "emoji": "💰"
+    },
+    {
+      "label": "تقديم لاعب معتمد",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392698754633818/6.png?ex=668f27ac&is=668dd62c&hm=f6d4110d2c2d870a48f05506dbe9186ed73e5b3ec1164c099d26417ac59935aa&",
+      "value": "ticket_6",
+      "rolesupport": "<@&1224349445781586112>",
+      "roleticketid": [
+        "1224349445781586112"
+      ],
+      "emoji": "⚽"
+    },
+
+    {
+      "label": "تقديم صانع محتوى",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392709936648242/7.png?ex=668f27af&is=668dd62f&hm=bc7a0b45c1832ecbe8cd4c017350550198bcd3b235e60767fcbd6c15585944a7&",
+      "value": "ticket_7",
+      "rolesupport": "<@&1223814666543697971>",
+      "roleticketid": [
+        "1223814666543697971"
+      ],
+      "emoji": "🎥"
+    },
+    {
+      "label": "المواقع",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392721290362900/8.png?ex=668f27b1&is=668dd631&hm=a551d217e7283c357a1ac05ef864fb42182ea42f15a96e2c63b65e20729bcd96&",
+      "value": "ticket_8",
+      "rolesupport": "<@&1223814665356705823>",
+      "roleticketid": [
+        "1223814665356705823"
+      ],
+      "emoji": "🌐"
+    },
+    {
+      "label": "وزارة الداخلية",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392732837285888/9.png?ex=668f27b4&is=668dd634&hm=a030fcf9e6e1d023281d81745cd12d90d0e9478c511e4b50ecd0525908ccba38&",
+      "value": "ticket_9",
+      "rolesupport": "<@&1218325891361538201>",
+      "roleticketid": [
+        "1218325891361538201"
+      ],
+      "emoji": "🏛️"
+    },
+    {
+      "label": "وزارة الصحة والسكان",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392743478493274/10.png?ex=668f27b7&is=668dd637&hm=10a07d9ee9e152f3cea0b5d510bc49215e1ec209e7d560507d8f483e3be23d5f&",
+      "value": "ticket_10",
+      "rolesupport": "<@&1218333911839543316>",
+      "roleticketid": [
+        "1218333911839543316"
+      ],
+      "emoji": "⚕️"
+    },
+    {
+      "label": "وزارة الدفاع",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392755427807263/11.png?ex=668f27b9&is=668dd639&hm=414e4e8488cbdc09ce6ea2d1b32867d2db7949e52376e1140495e07afaa40d97&",
+      "value": "ticket_11",
+      "rolesupport": "<@&1218613841785782413>",
+      "roleticketid": [
+        "1218613841785782413"
+      ],
+      "emoji": "🛡️"
+    },
+    {
+      "label": "شركة السحب والصيانة",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260391405985992859/12.png?ex=668f2678&is=668dd4f8&hm=c4f7491f75bf1f5a9e1ce26eed09d87ba8276ba71db1040d5c7582806bf2c871&",
+      "value": "ticket_12",
+      "rolesupport": "<@&1218348609926332516>",
+      "roleticketid": [
+        "1218348609926332516"
+      ],
+      "emoji": "🔧"
+    }
+  ]
+}
+
+
